@@ -14,8 +14,8 @@ DashBoard Profile: https://smartinternz.com/student-profile/feed/U0IyMDIyMDIwMjI
 
 
   
-
-
+     
+     
 
 ## Acknowledgement
 
@@ -40,6 +40,8 @@ So, here comed with a solution MyGrocery which has following key features-
 A thanks to this app where we no longer need to remember 🍓List. It has very simple eay to use interface which allow people from any age group to use it.
 
 >So keep adding item to cart and have fun!
+  
+  
 ## Architecture 🛠
 The app consists of some backend files containing functionalities of app as-
 1.  ***Grocery Database-*** Denotes database💾 class for my Grocery. 
@@ -100,5 +102,7 @@ The app apk link is given below-
   https://drive.google.com/file/d/1PSFs32HpgB575MQD5V7aIvy_5limo4Q4/view?usp=sharing
 
     
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+ ## App Logo
+![LogOrcer](https://user-images.githubusercontent.com/92860846/191771785-c38fee9f-a4ad-4533-a7fa-c60fd7135ef6.jpg)
+
 
