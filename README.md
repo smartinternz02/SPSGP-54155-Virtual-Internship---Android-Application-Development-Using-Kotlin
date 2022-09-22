@@ -1,25 +1,11 @@
-# 🛒My Grocery
-
-  
-
-## Objective
-👉 To design an app which keep track of your day to day grocery item need to be purchased.
+# <img src="https://user-images.githubusercontent.com/92860846/191802601-ba7ed87b-2e9f-46db-a645-c7c1cf9d4ef9.gif" align="center" height="200" width= "200"> My Grocery
 
 
-
-DashBoard Profile: https://smartinternz.com/student-profile/feed/U0IyMDIyMDIwMjI2NA==
-  
-  Video Link:
-    Add project doc also 
-
-
-  
-     
-     
+👉 To design an app which keep track of your day to day grocery item need to be purchased     
 
 ## Acknowledgement
 
-This Project has been made as a part of my SmartInternz-Google Virtual Internship Program. This internship was based on development of Android📲 application from Kotlin as its Language. I would thank all the who involved in providing such valuable skill.
+<p>This Project has been made as a part of my SmartInternz-Google Virtual Internship Program. This internship was based on development of Android📲 application from Kotlin as its Language. I would thank all the who involved in providing such valuable skill.</p>
 
 
 ## Description
@@ -39,7 +25,7 @@ So, here comed with a solution MyGrocery which has following key features-
 
 A thanks to this app where we no longer need to remember 🍓List. It has very simple eay to use interface which allow people from any age group to use it.
 
->So keep adding item to cart and have fun!
+>So keep adding item to cart and have fun!😊
   
   
 ## Architecture 🛠
@@ -93,16 +79,28 @@ To run this project, you will need to add the following dependicies added to you
 
 ![Rectangle (1)](https://user-images.githubusercontent.com/92860846/191756438-b178ae64-fe93-480a-8904-fc399304820b.png)
 
+    
+ ### App Logo
+![LogOrcer](https://user-images.githubusercontent.com/92860846/191771785-c38fee9f-a4ad-4533-a7fa-c60fd7135ef6.jpg)
 
 
 ## Installation
 
 The app apk link is given below-
   
-  https://drive.google.com/file/d/1PSFs32HpgB575MQD5V7aIvy_5limo4Q4/view?usp=sharing
+  
+<img src= "https://user-images.githubusercontent.com/92860846/191797988-e69ca0aa-4917-47a5-990c-dabdc89406b8.png" style="float:left">https://drive.google.com/file/d/1PSFs32HpgB575MQD5V7aIvy_5limo4Q4/view?usp=sharing
 
-    
- ## App Logo
-![LogOrcer](https://user-images.githubusercontent.com/92860846/191771785-c38fee9f-a4ad-4533-a7fa-c60fd7135ef6.jpg)
+
+  
+## Follow me on-
+
+  
+ <a href="https://www.linkedin.com/in/ansh-vikalp-37233a19b/"><img src="https://user-images.githubusercontent.com/92860846/191795057-575124fd-94e3-4aeb-a6d0-c0163ab43d09.gif" title="Click Here" height="80" width="80"></a><br>
+  <a href="https://github.com/Ansh-Vikalp"><img src="https://user-images.githubusercontent.com/92860846/191797287-690e6162-31f6-40bc-be7c-95bd2f1bc766.gif" title="Click Here" height="80" width="80"></a>
+  <a href="https://g.dev/ansh511"></a>
+  
+ 
+
 
 
