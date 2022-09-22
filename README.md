@@ -97,10 +97,10 @@ The app apk link is given below-
 
   
  <a href="https://www.linkedin.com/in/ansh-vikalp-37233a19b/"><img src="https://user-images.githubusercontent.com/92860846/191795057-575124fd-94e3-4aeb-a6d0-c0163ab43d09.gif" title="Click Here" height="80" width="80"></a><br>
-  <a href="https://github.com/Ansh-Vikalp"><img src="https://user-images.githubusercontent.com/92860846/191797287-690e6162-31f6-40bc-be7c-95bd2f1bc766.gif" title="Click Here" height="80" width="80"></a>
-  <a href="https://g.dev/ansh511"></a>
+  <a href="https://github.com/Ansh-Vikalp"><img src="https://user-images.githubusercontent.com/92860846/191797287-690e6162-31f6-40bc-be7c-95bd2f1bc766.gif" title="Click Here" height="80" width="80"></a><br>
+  <a href="https://g.dev/ansh511">Google Developer Profile</a>
   
- 
+
 
 
 
