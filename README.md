@@ -61,7 +61,7 @@ To run this project, you will need to add the following dependicies added to you
 
 ## Important Links
 
-***Demonstration Video-->*** https://youtu.be/qUZ0HFiKWXE
+***Demonstration Video-->*** https://www.youtube.com/watch?v=qUZ0HFiKWXE
 
 ***Student Dashboard Link-->*** https://smartinternz.com/student-profile/feed/U0IyMDIyMDIwMjI2NA==
 
