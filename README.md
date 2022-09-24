@@ -67,6 +67,8 @@ To run this project, you will need to add the following dependicies added to you
 
 ***Google Developer profile Link--->*** https://g.dev/ansh511
 
+***Project document Link--->*** https://github.com/smartinternz02/SPSGP-54155-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/SI-54155-1663667526%20(2).pdf
+
 
 # Home Screen
 
