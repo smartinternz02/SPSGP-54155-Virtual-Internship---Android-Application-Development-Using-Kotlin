@@ -4,7 +4,7 @@
 # <img src="https://user-images.githubusercontent.com/92860846/191802601-ba7ed87b-2e9f-46db-a645-c7c1cf9d4ef9.gif" align="center" height="200" width= "200"> My Grocery
 
 
-#### ```👉 To design an app which keep track of your day to day grocery item need to be purchased  ```
+#### ```👉Aim- To design an app which keep track of your day to day grocery item need to be purchased  ```
 
 ## Acknowledgement
 
