@@ -61,9 +61,11 @@ To run this project, you will need to add the following dependicies added to you
 
 ## Important Links
 
-***Demonstration Video-->***
+***Demonstration Video-->*** https://youtu.be/qUZ0HFiKWXE
 
 ***Student Dashboard Link-->*** https://smartinternz.com/student-profile/feed/U0IyMDIyMDIwMjI2NA==
+
+***Google Developer profile Link--->*** https://g.dev/ansh511
 
 
 # Home Screen
